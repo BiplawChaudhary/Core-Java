@@ -3,7 +3,6 @@ package OOP;
 
 //If classes are in same package(folder) then
 // There is no need to import
-
 public class MainMethod{
     public static void main(String[] args){
 
