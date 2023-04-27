@@ -11,5 +11,10 @@ public class InheritanceApp {
 
         p1.showProductDetails();
 
+
+        Mobile m1 = new Mobile();
+
+        m1.
+
     }
 }
